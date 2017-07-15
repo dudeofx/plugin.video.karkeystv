@@ -1,0 +1,11 @@
+{
+   "items": [
+       {"type": "listing", "item_id": "music.euphoria", "title": "Legendary Euphoria Series", "thumb": "spotlight.ico.256x256.jpg" },
+       {"type": "video", "item_id": "4KWyXopLxac", "title": "The Gate To the Mind's Eye" },
+       {"type": "video", "item_id": "9vG3FZfwn8M", "title": "Odyssey Into the Mind's Eye" },
+       {"type": "playlist", "item_id": "PL0cWlOyqP6_PKyS76fDsafkj_ho4KLmEA", "title": "A State of Trance" },
+       {"type": "playlist", "item_id": "PLYn3Q5bE86uLjUfBpEbW17UtjuDOMRBAL", "title": "Trance Top 25 - Armada music" },
+       {"type": "playlist", "item_id": "PLt76zUfZPnMpQHz-gypuDKWklONeBii4L", "title": "New Releases - Ultra music" }
+   ]
+}
+

@@ -1,0 +1,11 @@
+{
+   "items": [
+       {"type": "listing", "item_id": "beauty.spotlight", "title": "Beauty Spotlight", "thumb": "spotlight.ico.256x256.jpg" },
+       {"type": "video", "item_id": "5FcHZ5Dj7WE", "title": "Fashion TV Live!" },
+       {"type": "video", "item_id": "0u3TsQUtnSY", "title": "Victoria's Secret Live!" },
+       {"type": "playlist", "item_id": "PLxViQyEiEuWEzu5mPyPR89ytOFdMP0m0h", "title": "The World of Versace" },
+       {"type": "playlist", "item_id": "PL5EE65D01F6E3FD33", "title": "Chanel Fashion" },
+       {"type": "playlist", "item_id": "UU3S3VRbbm9f5gImR_tQg0Lw", "title": "Chicas Car Audio [16+ sexuality]" }
+   ]
+}
+
